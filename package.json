@@ -1,5 +1,5 @@
 {
-  "name": "react-native-cached-images",
+  "name": "react-native-cached-images-zzly",
   "version": "0.1.3",
   "description": "CachedImage component for react-native",
   "main": "index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tuananhluong/react-native-cached-images"
+    "url": "https://github.com/ofirefish/react-native-cached-images"
   },
   "keywords": [
     "react-native",
@@ -32,9 +32,9 @@
   "author": "tuan <luonganhtuan278@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tuananhluong/react-native-cached-image/issues"
+    "url": "https://github.com/ofirefish/react-native-cached-images/issues"
   },
-  "homepage": "https://github.com/tuananhluong/react-native-cached-images",
+  "homepage": "https://github.com/ofirefish/react-native-cached-images",
   "files": [
     "index.js",
     "CachedImage.js",
